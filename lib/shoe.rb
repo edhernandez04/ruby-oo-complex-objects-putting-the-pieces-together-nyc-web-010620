@@ -20,8 +20,8 @@ class Shoe
     @size = num
   end
  
-  def page_count
-    @page_count
+  def size
+    @size
   end
  
   def genre=(genre)
